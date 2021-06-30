@@ -17,11 +17,9 @@ ResNet50v2.
 
 
 
-I compared the models with each other by the following scores:
-
+I compared the models with each other by the following scores:  
 • validation accuracy - accuracy in a set which wasn’t used in a training (validation
-set)
-
+set)  
 • validation loss - the difference between real class and the class selected by model
 in a validation set
 
